@@ -7,4 +7,4 @@
 提交的数据中存在一个序列化的json即可，大家可以试试。
 
 对于cookie，可以调用selenium库启动firefox来获得，而不必手动的去打开浏览器更新，在此不给出代码，有兴趣的同学可以去看看我的另一个项目
-淘宝直播https://github.com/GreadLoveJM/taobaozhibo，在那里我有应用。
+淘宝直播https://github.com/GreadLoveJM/taobaozhibo
